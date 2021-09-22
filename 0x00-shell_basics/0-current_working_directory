@@ -1,2 +1,2 @@
-#!/bin/bash /0x00-shell_basics
-echo "/holberton-system_engineering-devops"
+#!/bin/bash ./0-current_working_directory
+echo "/0x00-shell_basics"
