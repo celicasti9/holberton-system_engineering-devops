@@ -1,2 +1,2 @@
-#!/bin/bash 
-echo "/home/vagrant/holberton-system_engineering-devops/0x00-shell_basics"
+#!/bin/bash $ ./-current_working_directory 
+echo "/home/vagrant/holberton-system_engineering-devops/0x00-shell_basics" $
